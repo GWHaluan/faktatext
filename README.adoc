@@ -1,3 +1,3 @@
 # Faktatext SsaS grund del 4
 
-Följa den här länken: link:/utbrytningar/index.adoc[]
+Följa den här länken: link:/utbrytningar/index.adoc[Utbrytningskonstruktioner i olika språk jämfört med Svenska].

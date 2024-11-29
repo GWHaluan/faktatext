@@ -1,5 +1,11 @@
 # Utbrytningskonstruktioner i olika språk jämfört med Svenska
 
-include::avsnitt/inledning.adoc[leveloffset=+1]
 
-include::avsnitt/kaellfoerteckning.adoc[leveloffset=+1]
+## Inledning
+
+In Leder we trust.
+
+
+# Källförteckning
+
+Fantastiska källor.
