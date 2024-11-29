@@ -1,3 +1,3 @@
 # Faktatext SsaS grund del 4
 
-Följa den här länken: xref::/utbrytningar/index.adoc[]
+Följa den här länken: link:/utbrytningar/index.adoc[]
