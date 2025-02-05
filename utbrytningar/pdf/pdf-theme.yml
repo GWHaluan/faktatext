@@ -40,7 +40,7 @@ role:
     text-decoration: line-through
     text-decoration-color: #FF0000
 heading-h2:
-  font-size: 14
+  font-size: 12
   font-style: bold
   line-height: 1.2
   margin-bottom: 10

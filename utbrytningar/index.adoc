@@ -1,7 +1,8 @@
 = Utbrytningar i olika språk
 Richard Harka Skill <richard.sill@stroemming.se>
 v1.0, 2025-02-05
-:doctype: book
+:doctype: article
+:title-page:
 :toc:
 :toc-title: Innehållsförteckning
 :pdf-page-size: A4
@@ -10,13 +11,9 @@ v1.0, 2025-02-05
 :source-highlighter: rouge
 
 include::avsnitt/inledning.adoc[leveloffset=+1]
-
 include::avsnitt/utbrytningar-svenska.adoc[leveloffset=+1]
-
 include::avsnitt/utbrytningar-andra-sprak.adoc[leveloffset=+1]
-
 include::avsnitt/jaemfoer.adoc[leveloffset=+1]
-
 include::avsnitt/diskussion.adoc[leveloffset=+1]
 
 <<<
