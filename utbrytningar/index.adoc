@@ -1,11 +1,24 @@
-# Utbrytningskonstruktioner i olika språk jämfört med Svenska
+= Utbrytningar i olika språk
+Richard Harka Skill <richard.sill@stroemming.se>
+v1.0, 2025-02-05
+:doctype: book
+:toc:
+:toc-title: Innehållsförteckning
+:pdf-page-size: A4
+:reproducible:
+:listing-caption: Listing
+:source-highlighter: rouge
 
+include::avsnitt/inledning.adoc[leveloffset=+1]
 
-## Inledning
+include::avsnitt/utbrytningar-svenska.adoc[leveloffset=+1]
 
-In Leder we trust.
+include::avsnitt/utbrytningar-andra-sprak.adoc[leveloffset=+1]
 
+include::avsnitt/jaemfoer.adoc[leveloffset=+1]
 
-# Källförteckning
+include::avsnitt/diskussion.adoc[leveloffset=+1]
 
-Fantastiska källor.
+<<<
+
+include::avsnitt/kaellfoerteckning.adoc[leveloffset=+1]

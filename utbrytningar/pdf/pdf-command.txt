@@ -1,0 +1,1 @@
+asciidoctor-pdf --theme pdf-theme.yml ../index.adoc -o utbrytningar.pdf

@@ -1,0 +1,5 @@
+# Källförteckning
+
+. RedKid.Net (2024). _RedKid.Net - London Underground Sign Generator_. link:http://www.redkid.net/generator/underground/[http://www.redkid.net/generator/underground/] [2025-02-05]
+
+. Teleman, U.; Hellberg, S.; Andersson, E.; Holm, L. (1999). _Svenska akademiens grammatik_. 1  uppl. Stockholm. Svenska akademien
