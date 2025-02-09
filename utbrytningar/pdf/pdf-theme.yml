@@ -3,7 +3,7 @@ title-page:
   logo:
     align: center
     top: 10%
-    image: image:../images/london-underground-utbrytning.jpg[pdfwidth=65%]
+    image: image:../images/london-underground-utbrytning.jpg[pdfwidth=65%,title="Miau"]
   title:
     top: 65%
     font-family: Times-Roman
@@ -49,6 +49,8 @@ heading-h3:
   font-style: bold
   line-height: 1.2
   margin-bottom: 10
+conum:
+  font-color: #B12146
 link:
   font-color: #002FA7
 list:

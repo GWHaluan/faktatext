@@ -1,3 +1,26 @@
 = Inledning
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer porttitor, urna at tincidunt iaculis, arcu quam dapibus diam, quis facilisis nibh nulla eget erat. Aliquam porta imperdiet nibh pulvinar suscipit. Donec a lectus vitae est bibendum porttitor et quis neque.
+Ibland kan man inte alls lita på sin språkkänsla, särskilt om det handlar om ett främmande språk.
+Engdahl säger att: "Språkkänslan uppstår spontant vid inlärningen av det första språket – eller språken om barnet växer upp i ett flerspråkigt hem" (2009, 97).
+Att lära sig ett till språk senare i livet betyder alltså att denna språkkänslan till och med kommer i vägen eftersom den är färgad av modersmålet eller modersmålen och kan inte alltid överföras till det nya språket.
+
+När jag var på semester i Teneriffa i slutet av 2023 hittade jag boken "Mittlandet" av Johanna Mo (2022) i bokbytarhyllan på mitt hotell.
+En mening från den här boken utmanade min språkkänsla och höll mig igång i flera veckor:
+
+[quote, (Mo 2022, 69)]
+Fast det var ju för sin otillgänglighet som platsen hade valts.
+
+Sammanhanget för den här meningen är att en avlägsen brottsplats upptäcks under en utredning. 
+
+Min förvirring beror på min tyska språkkänsla.
+I synnerhet är det det relativa pronomenet som är kontraintuitivt för mig.
+När jag läste den meningen fick jag en brinnande fråga: varför inte "att" istället för "som"?
+
+[quote]
+Fast det var ju för sin otillgänglighet *att platsen hade valts.
+
+Alla personer som har svenska som modersmål jag har tillfrågat säger att man inte kan säga såhär.
+Varför känns det fel för mig att använda "som"?
+Medan det inte är särskilt intressant ur ett svenskt språkligt perspektiv att min tyska språkkänsla spelar mig ett spratt, är mina sammanfattade resultat i ämnet dock intressant ur en jämförande lingvistisk synvinkel. 
+
+Uppenbarligen har min förvirring att göra med utbrytningsmeningar i en bredare bemärkelse, men också med nyanser i användning av relativpronomen och "dass"-meningar i tyskan.

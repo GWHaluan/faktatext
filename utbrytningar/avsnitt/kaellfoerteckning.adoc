@@ -1,5 +1,9 @@
 # Källförteckning
 
+. Engdahl, E. (2009). _Språkkänsla_, Kungl. Vitterhets Historie och Antikvitets Akademiens Årsbok MMIX. Stockholm. Kungliga Vitterhets Historie och Antikvitets Akademien
+
+. Mo, J. (2022). _Mittlandet_. 1 uppl. Kalmar. Romanus & Selling
+
 . RedKid.Net (2024). _RedKid.Net - London Underground Sign Generator_. link:http://www.redkid.net/generator/underground/[http://www.redkid.net/generator/underground/] [2025-02-05]
 
 . Teleman, U.; Hellberg, S.; Andersson, E.; Holm, L. (1999). _Svenska akademiens grammatik_. 1  uppl. Stockholm. Svenska akademien
