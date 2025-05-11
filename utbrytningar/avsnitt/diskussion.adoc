@@ -1,3 +1,3 @@
 = Diskussion
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer porttitor, urna at tincidunt iaculis, arcu quam dapibus diam, quis facilisis nibh nulla eget erat. Aliquam porta imperdiet nibh pulvinar suscipit. Donec a lectus vitae est bibendum porttitor et quis neque.
+Recap.

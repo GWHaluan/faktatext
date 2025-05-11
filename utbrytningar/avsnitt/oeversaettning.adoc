@@ -1,0 +1,40 @@
+= Översättning
+
+Hur översätter man xref:#svensk-som-mening[] till tyska?
+Det finns faktiskt flera sätt att översätta meningen, både med och utan utbrytning.
+
+[[tysk-utan-utbrytning]]
+.Översättning 1
+[quote, 'link:https://www.deepl.com/en/translator#sv/de/Fast%20det%20var%20ju%20f%C3%B6r%20sin%20otillg%C3%A4nglighet%20som%20platsen%20hade%20valts.[(DeepL 2025)]', utan utbrytning]
+Der Standort wurde aber gerade wegen seiner Unzugänglichkeit gewählt. +
+_(Fast platsen hade valts för sin otillgänglighet.)_
+
+xref:#tysk-utan-utbrytning[] är resultatet när man översätter meningen med DeepL.
+Utbrytningen undviks helt och hållet och det är därför att denna översättning inte är av något vidare intresse.
+
+Om man vill använda sig av en utbrytningskonstruktion i Tyskan, finns det två olika alternativ:
+
+[[tysk-dass-sats]]
+.Översättning 2
+[quote, 'link:https://duckduckgo.com/?t=ffab&q=google+translate&ia=web[(Google Translator wrapper i DuckDuckGo)]', '"dass"-sats']
+Aber es war wegen seiner Unzugänglichkeit, dass der Ort ausgewählt worden war. +
+_(Fast det var för sin otillgänglighet *[att] platsen hade valts.)_
+
+[[duckduckgo]]
+.Google Translator wrapper
+[.center]
+image::images/duckduckgo-oeversaettning.png[width=65%,align="center",caption="Figur 1."]
+
+xref:#tysk-dass-sats[] är precis vad min tyska språkkänsla säger och Google Translator som wrapper widget översätter meningen såhär, se även xref:#duckduckgo[].
+xref:#dass-sats[] går in på detta mer i detalj.
+
+[[tysk-relativ-sats]]
+.Översättning 3
+[quote, relativsats]
+Aber es war seine Unzugänglichkeit, wegen derer der Ort ausgewählt worden war. +
+_(Fast det var sin otillgänglighet *[för som + genitiv] platsen hade valts.)_
+
+Jag kom på xref:#tysk-relativ-sats[] efter lite funderande.
+"Wegen derer" är en genitiv-form av pronomen "der/die" som inte används ofta, men det funkar (Linguee 2025).
+Det är särskilt intressant att motsvarigheten av det svenska "för" flyttar till relativsatsen i tyskan.
+Läs mer om detta i xref:#relativpronomen[].

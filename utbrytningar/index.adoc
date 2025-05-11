@@ -1,6 +1,6 @@
 = Relativpronomen och utbrytningskonstruktioner i olika språk
 Richard Harka Skill <richard.sill@stroemming.se>
-v1.0, 2025-02-05
+v1.1, 2025-02-05
 :doctype: article
 :title-page:
 :toc:
@@ -13,10 +13,11 @@ v1.0, 2025-02-05
 include::avsnitt/inledning.adoc[leveloffset=+1]
 
 <<<
-    
-include::avsnitt/utbrytningskonstruktioner.adoc[leveloffset=+1]
-include::avsnitt/pronomen.adoc[leveloffset=+1]
-include::avsnitt/dass-meningar.adoc[leveloffset=+1]
+
+include::avsnitt/oeversaettning.adoc[leveloffset=+1]
+include::avsnitt/utbrytning.adoc[leveloffset=+1]
+include::avsnitt/relativpronomen.adoc[leveloffset=+1]
+include::avsnitt/dass-sats.adoc[leveloffset=+1]
 include::avsnitt/diskussion.adoc[leveloffset=+1]
 
 <<<

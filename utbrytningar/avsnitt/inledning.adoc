@@ -1,3 +1,4 @@
+[[inledning]]
 = Inledning
 
 Ibland kan man inte alls lita på sin språkkänsla, särskilt om det handlar om ett främmande språk.
@@ -7,6 +8,8 @@ Att lära sig ett till språk senare i livet betyder alltså att denna språkkä
 När jag var på semester i Teneriffa i slutet av 2023 hittade jag boken "Mittlandet" av Johanna Mo (2022) i bokbytarhyllan på mitt hotell.
 En mening från den här boken utmanade min språkkänsla och höll mig igång i flera veckor:
 
+[[svensk-som-mening]]
+.Mening 1
 [quote, (Mo 2022, 69)]
 Fast det var ju för sin otillgänglighet som platsen hade valts.
 
@@ -23,4 +26,4 @@ Alla personer som har svenska som modersmål jag har tillfrågat säger att man 
 Varför känns det fel för mig att använda "som"?
 Medan det inte är särskilt intressant ur ett svenskt språkligt perspektiv att min tyska språkkänsla spelar mig ett spratt, är mina sammanfattade resultat i ämnet dock intressant ur en jämförande lingvistisk synvinkel. 
 
-Uppenbarligen har min förvirring att göra med utbrytningsmeningar i en bredare bemärkelse, men också med nyanser i användning av relativpronomen och "dass"-meningar i tyskan.
+Uppenbarligen har min förvirring att göra med utbrytningsmeningar i en bredare bemärkelse, men också med nyanser i användning av relativpronomen och "dass"-satser i tyskan.
