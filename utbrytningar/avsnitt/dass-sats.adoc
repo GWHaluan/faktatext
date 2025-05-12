@@ -1,7 +1,28 @@
 [[dass-sats]]
 = Den Tyska "dass"-satsen
 
-Dass-Sätze im Deutschen
+Tyska "dass"-satser är bisatser som inleds av "dass" som är en preposition som motsvarar en bisatsinledande "att" i svenskan (Talkpal AI 2025).
+
+Olesen (2024) avgör fyra kategorier för tyska "dass"-satser:
+
+. Verb som uttrycker åsikter, uppfattningar, känslor, kunskaper eller avsikter,
+. Rapporterat tal efter huvudsatser med vissa verb (hören/att höra, erzählen/att berätta, sagen/att säga osv.), 
+. Opersonliga fraser med "es" och vissa adjektiv (wichtig/viktig, möglich/möjlig, schön/skön osv.),
+. Vissa substantiv (der Glaube/tron, der Wunsch/önskan, die Vermutung/förmodan osv.).
+
+[[tyska-dass-satser]]
+.Tyska "dass"-satser
+[quote, (Olesen 2024)]
+Viele Leute denken, dass Deutsch eine schwierige Sprache ist. +
+_(Många tycker att tyska är ett svårt språk.)_ +
+Eine Kollegin hat mir erzählt, dass sie im letzten Jahr in Italien war. +
+_(En kollega berättade för mig att hon var i Italien förra året.)_ +
+Es freut mich, dass ich den Sommer in Griechenland verbringen werde. +
+_(Jag är glad över att jag kommer att tillbringa sommaren i Grekland.)_ +
+Ich bin der Meinung, dass Griechenland ein wunderschönes Land ist. +
+_(Jag tycker att Grekland är ett vackert land.)_ 
+
+
 
 Dass-Sätze sprachgeschichtlich verwandt mit relativsätzen
 

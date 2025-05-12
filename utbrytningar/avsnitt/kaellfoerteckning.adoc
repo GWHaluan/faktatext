@@ -1,33 +1,37 @@
 # Källförteckning
 
-. Blühdorn, H. (2013). _Syntaktische Nebensatzklassen im Deutschen_, Deutsche Sprache, Zeitschrift für Theorie, Praxis und Dokumentation. Berlin. Erich Schmidt Verlag
+. Blühdorn, H. (2013). _Syntaktische Nebensatzklassen im Deutschen_. Deutsche Sprache, Zeitschrift für Theorie, Praxis und Dokumentation. Berlin. Erich Schmidt Verlag
 
 . Brandtler, J. (2017). _Utbrytningsformade frågor i svenska: Vad är det de betyder, och hur är det de används?_ Svenskans beskrivning 36, Uppsala universitetet, institut för nordiska språk, föredrag under konferensen 'Svenskas beskrivning 36', link:https://www2.nordiska.uu.se/konferens/svebe36/sammandrag/brandtler/[https://www2.nordiska.uu.se/konferens/svebe36/sammandrag/brandtler/] [2025-05-12]
 
 . DeepL (2025). _DeepL Translate: The world's most accurate translator_. link:https://www.deepl.com/en/translator#sv/de/Fast%20det%20var%20ju%20f%C3%B6r%20sin%20otillg%C3%A4nglighet%20som%20platsen%20hade%20valts.[https://www.deepl.com/en/translator#sv/de/Fast%20det%20var%20ju%20f%C3%B6r%20sin%20otillg%C3%A4nglighet%20som%20platsen%20hade%20valts.] [2025-05-11]
 
-. Destruel, E. (2013). _The French c'est-cleft: An empirical study on its meaning and use._  Opublicerad PHD-avhandling. link:https://repositories.lib.utexas.edu/server/api/core/bitstreams/ea19f307-a328-49dd-bbeb-1a611e6564ab/content[https://repositories.lib.utexas.edu/server/api/core/bitstreams/ea19f307-a328-49dd-bbeb-1a611e6564ab/content] [2025-05-12]
+. Destruel, E. (2013). _The French c'est-cleft: An empirical study on its meaning and use_.  Opublicerad PHD-avhandling. link:https://repositories.lib.utexas.edu/server/api/core/bitstreams/ea19f307-a328-49dd-bbeb-1a611e6564ab/content[https://repositories.lib.utexas.edu/server/api/core/bitstreams/ea19f307-a328-49dd-bbeb-1a611e6564ab/content] [2025-05-12]
 
-. DuckDuckGO (2025) _google translate at DuckDuckGo_. link:https://duckduckgo.com/?t=ffab&q=google+translate&ia=web[https://duckduckgo.com/?t=ffab&q=google+translate&ia=web] [2025-05-11]
+. DuckDuckGO (2025) _Google Translate at DuckDuckGo_. link:https://duckduckgo.com/?t=ffab&q=google+translate&ia=web[https://duckduckgo.com/?t=ffab&q=google+translate&ia=web] [2025-05-11]
 
-. Engdahl, E. (2009). _Språkkänsla_, Kungl. Vitterhets Historie och Antikvitets Akademiens Årsbok MMIX. Stockholm. Kungliga Vitterhets Historie och Antikvitets Akademien
+. Engdahl, E. (2009). _Språkkänsla_. Kungl. Vitterhets Historie och Antikvitets Akademiens Årsbok MMIX. Stockholm. Kungliga Vitterhets Historie och Antikvitets Akademien
 
-. Lambrecht, K. (2001). _A framework for the analysis of cleft constructions._ Linguistics vol. 39(3), p. 463-516. Berlin. De Gruyter Brill
+. Lambrecht, K. (2001). _A framework for the analysis of cleft constructions_. Linguistics vol. 39(3), p. 463-516. Berlin. De Gruyter Brill
 
 . Linguee (2025). _Linguee Wörterbuch_. link:https://www.linguee.de/deutsch-schwedisch/search?query=%22wegen+derer%22[https://www.linguee.de/deutsch-schwedisch/search?query=%22wegen+derer%22] [2025-05-11]
 
 . Mo, J. (2022). _Mittlandet_. 1 uppl. Kalmar. Romanus & Selling
 
+. Olesen, J. (2024). _When And How To Use Dass In German_. link:https://www.olesentuition.co.uk/single-post/when-and-how-to-use-dass-in-german[https://www.olesentuition.co.uk/single-post/when-and-how-to-use-dass-in-german] [2025-05-12]
+
 . RedKid.Net (2024). _RedKid.Net - London Underground Sign Generator_. link:http://www.redkid.net/generator/underground/[http://www.redkid.net/generator/underground/] [2025-02-05]
 
 . Lövestam, S. (2022). _Snart är det du som är utbrytarkung!_, Språktidningen, link:https://spraktidningen.se/kronikor/snart-ar-det-du-som-ar-utbrytarkung/[https://spraktidningen.se/kronikor/snart-ar-det-du-som-ar-utbrytarkung/] [2025-05-12]
 
-. Salmanova, S. (2024). _The Structural and Functional Analysis of Cleft Sentences in English Linguistics._ Global Spectrum of Research and Humanities 1(1), 46-54. Cardiff. The Global Spectrum Series 
+. Salmanova, S. (2024). _The Structural and Functional Analysis of Cleft Sentences in English Linguistics_. Global Spectrum of Research and Humanities 1(1), 46-54. Cardiff. The Global Spectrum Series 
+
+. Talkpal AI (2025). _Das vs dass – att bryta ner tyska konjunktioner och artiklar_. link:https://talkpal.ai/sv/vocabulary/das-vs-dass-att-bryta-ner-tyska-konjunktioner-och-artiklar/[https://talkpal.ai/sv/vocabulary/das-vs-dass-att-bryta-ner-tyska-konjunktioner-och-artiklar/] [2025-5-12]
 
 . Tatoeba (2022). _German example sentence - Tatoeba_. link:https://tatoeba.org/en/sentences/show/1839405[https://tatoeba.org/en/sentences/show/1839405] [2025-05-12]
 
 . Teleman, U.; Hellberg, S.; Andersson, E.; Holm, L. (1999). _Svenska akademiens grammatik_. 1  uppl. Stockholm. Svenska akademien
 
-. Tönnis, S.; Tonhauser, J. (2022) _German clefts address unexpected questions._ Semantics and Linguistic Theory (SALT) vol. 32, p. 661-684. Washington DC. Linguistic Society of America (LSA)
+. Tönnis, S.; Tonhauser, J. (2022) _German clefts address unexpected questions_. Semantics and Linguistic Theory (SALT) vol. 32, p. 661-684. Washington DC. Linguistic Society of America (LSA)
 
-. Tysk Wikipedia (2025) _Relativpronomen_ link:https://de.wikipedia.org/wiki/Relativpronomen[https://de.wikipedia.org/wiki/Relativpronomen] [2025-05-12]
+. Tyskspråkiga Wikipedia (2025) _Relativpronomen_. link:https://de.wikipedia.org/wiki/Relativpronomen[https://de.wikipedia.org/wiki/Relativpronomen] [2025-05-12]
