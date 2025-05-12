@@ -16,7 +16,7 @@ Om man vill använda sig av en utbrytningskonstruktion i Tyskan, finns det två 
 
 [[tysk-dass-sats]]
 .Översättning 2
-[quote, 'link:https://duckduckgo.com/?t=ffab&q=google+translate&ia=web[(Google Translator wrapper i DuckDuckGo)]', '"dass"-sats']
+[quote, 'link:https://duckduckgo.com/?t=ffab&q=google+translate&ia=web[(DuckDuckGo 2025)]', '"dass"-sats']
 Aber es war wegen seiner Unzugänglichkeit, dass der Ort ausgewählt worden war. +
 _(Fast det var för sin otillgänglighet *[att] platsen hade valts.)_
 

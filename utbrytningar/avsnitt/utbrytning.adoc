@@ -1,13 +1,81 @@
 = Utbrytningar
 
+Här är några exempel på utbrytningskonstruktioner på svenska:
+
+[[svenska-utbrytningar]]
+.Svenska utbrytningsexempel
+[quote, (Teleman et al. 1999, 514 och 517)]
+Det var hans bror som skulle komma. (1) +
+Det är framför allt flitig (som) han är. +
+Det är springa fort (som) han kan. +
+Vad var det (som) du gjorde i Paris? (2)
+
+Utbrytningskonstruktioner har fem delar (Teleman et al. 1999, 514):
+
+. Ett expletivt "Det"
+. Matrissats
+. Utbrutet led i matrissatsen
+. Relativ bisats (ochså kallas för komplement)
+. Underförstått led i den relativa bisatsen med det utbrutet led som korrelat
+
+I mening (1) i xref:#svenska-utbrytningar[] är matrissatsen "Det var hans bror", det utbrutna ledet "hans bror", komplement är "som skulle komma" och slutligen det underförstådda ledet "-", kopplat till "hans bror" av "som".
+
+Ur det pragmatiska perspektivet innehåller en utbrytningskonstruktion en så kallat presupposition - ett påstående som förutsätts vara sant.
+Till exempel, mening (1) presupponerar att "någon skulle komma" medan den kvesitiva meningen (2) presupponerar att "du gjorde någonting i Paris" (Teleman et al. 1999, 517).
+
+Däremot placeras det utbrutna ledet i fokus - dess information framhävs genom att det markeras.
+Detta kan ha olika anledningar.
+Den är särskilt viktig information, ny information (Salmanova, S. 2024, 49) eller oväntad information (Tönnis & Tonhauser 2022, 661) i den nuvarande diskursen, eller förklarar, ibland korrigerar något som inte riktigt eller inte alls har förståtts (Brandtler, J. 2017).
+I skriftspråk kan konstruktionen tydliggöra den saknade betoningen (Språktidningen 2022).
+
 Det finns utbrytningskonstruktioner i många språk.
+I vanliga fall är utbrytningar i svenskan mycket lika dem som finns i tyskan:
 
-Beispiele
+[[tyska-utbrytningar]]
+.Tyska utbrytningsexempel
+[quote, '(Tönnis & Tonhauser 2022, 662 och 678) och link:https://tatoeba.org/en/sentences/show/1839405[(Tatoeba 2022)]']
+Es war Lilly, die vor Bennis Fahrrad geparkt hat. +
+_(Det var Lilly som parkerade framför Bennis cykel.)_ +
+Es war Peter, mit dem Lena geflirtet hat. +
+_(Det var Peter som Lena flörtade med.)_ +
+Es ist wegen seiner Grausamkeit, dass ich ihn nicht mag. (3) +
+_(Det är för sin grymhet som jag inte tycker om honom.)_
 
-Svenska
-Tyska
-Franska
+Mening (3) i xref:#tyska-utbrytningar[] är strukturellt identisk med xref:#tysk-dass-sats[].
+Detta är ett atypsikt fall eftersom en dass-sats används som komplementet, något som inte finns i svenskan.
+Se även xref:#dass-sats[].
 
-Pragmatische Bedeutung
+Det finns ett anmärkningsvärt stort antal underkategorier för utbrytningskonstruktioner på engelska:
 
-Sprachbezogene Gewichtung (Französische Fragesätze, eher Subjektclefts im Deutschen)
+[[engelska-utbrytningar]]
+.Engelska utbrytningsexempel
+[quote, '(Lambrecht 2001, 3, 28-30, 33-34)']
+It was John we saw. (It-cleft) +
+What he wants to explain is the use of clefts (Wh-cleft, omvänd). +
+There's the use of clefts he wants to explain. (There-cleft). +
+If he wants to explain clefts it's because he is ambitious.(If-because-cleft).
+All you need is love. (All-cleft) +
+It's that I use Pepsodent now. (Inferential cleft). +
+
+De flesta fungerar lika som de svenska exempel, jämför särskilt med definition (3) i Lambrecht (2001, 4) som matchar den ovanstående beskrivning av utbrytningskonstruktioner (Teleman et al. 1999) mycket nära:
+
+[quote]
+"A CLEFT CONSTRUCTION (CC) is a complex sentence structure consisting of a matrix
+clause headed by a copula and a relative or relative-like clause whose relativized argument
+is coindexed with the predicative argument of the copula. Taken together, the matrix and
+the relative express a logically simple proposition, which can also be expressed in the form
+of a single clause without a change in truth conditions."
+
+All-clefts och inferential clefts är undantag, de lever inte upp till denna definition (Lambrecht 2001, 30 och 33).
+
+Förutom normala utbrytningar som fungerar på samma sätt som i de andra språken som presenteras, har franskan en rigid grammatisk inbäddning av utbrytningar i vissa frågesatser:
+
+[[franska-utbrytningar]]
+.Reguljära franska utbrytningsfrågor
+[quote, '(Destruel, E. 2013, 159)']
+Qui est-ce-qui achète un journal au kiosque? +
+_(Vem köper en tidning i tidningskiosken?)_ +
+Qu'est-ce-que Marie achète au kiosque? +
+_(Vad köper Marie i kiosken?)_ +
+Où est-ce-que Marie achète un journal? + 
+_(Var köper Marie en tidning?)_
