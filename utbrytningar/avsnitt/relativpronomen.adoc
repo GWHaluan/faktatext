@@ -1,10 +1,28 @@
 [[relativpronomen]]
 = Relativpronomen
 
-Svenska exempel
+När det gäller relativa pronomen finns det några skillnader mellan svenska och tyska.
 
-Tyska exempel
+Medan svenkan har "som", "vilken" och "vars", har tyskan "de+", "welche+" och "wer/was" (Tysk Wikipedia 2025).
+"som" och "de+" och "vilken" och "welche+" används ungefär på samma sätt och i de flesta fall.
+"wer/was" är å andra sidan inte en motsvarighet till "vars" - "vars" översättas som "deren" eller "dessen" som är former av "de+".
+"wer/was" är interrogativa pronomen som får också användas som relativa pronomen:
 
-"vem som" vs "wer"
+[[tysk-utan-utbrytning]]
+.Tyska interrogativa och relativa pronomen
+[quote]
+Du weißt, wer morgen kommt. +
+_(Du vet vem som kommer imorgon.)_ +
+Ich ahne, was hier so komisch riecht. +
+Jag har en aning om vad som luktar så konstigt här.
 
-"wegen derer"
+Medan tyskan tillåter användning av interrogativa pronomen som relativa behöver svenskan använda båda två.
+Med andra ord, "wer/was" sammanfattar två grammatiska funktioner som kodas av "vem/vad" + "som" i svenskan.
+
+Det finns också en skillnad när man jämför xref:#svensk-som-mening[] med xref:#tysk-relativ-sats[]:
+
+[quote]
+Fast det var ju för sin otillgänglighet som platsen hade valts. +
+Aber es war seine Unzugänglichkeit, wegen derer der Ort ausgewählt worden war.
+
+Det verkar finnas en grammatisk bindning mellan prepositionen "för" och det utbrutna ledet "sin otillgänglighet" i svenskan medan en sådan bindning finns mellan prepositionen och relativpronomen inom komplementet i tyskan.
