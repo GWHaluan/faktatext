@@ -1,3 +1,14 @@
 = Diskussion
 
-Recap.
+Språk är ett komplext ämne.
+Olika språk har saker gemensamt, men kan ändå skilja sig från varandra i större eller mindre utsträckning.
+Detta gör det svårt att förlita sig på sin språkkänsla som man har förvärvat på ett språk och som man försöker tillämpa på ett annat språk.
+
+Det känns som om ämnet utbrytningskonstruktioner är prototypiskt för en sådan situation.
+I xref:#utbrytningar[] blev det tydligt att det finns språkliga skillnader, till exempel de många olika sätten att konstruera utbrytningsmeningar på engelska eller den rigida regelbunden användning av utbrytning i vissa franska frågor.
+Relativa pronomen skiljer sig också avsevärt i detaljerna. Detta illustrerades i xref:#relativpronomen[].
+Slutligen gav xref:#dass-sats[] inblick i tyska "dass"-meningar och deras språkliga ursprung, liksom deras förhållande till utbrytningar.
+
+Innebär detta att frågan slutligen får en tillfredsställande lösning?
+Inte helt och hållet.
+Men en hel del insikter har kommit fram under resans gång.

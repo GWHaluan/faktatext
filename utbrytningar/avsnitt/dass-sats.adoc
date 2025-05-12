@@ -22,10 +22,42 @@ _(Jag är glad över att jag kommer att tillbringa sommaren i Grekland.)_ +
 Ich bin der Meinung, dass Griechenland ein wunderschönes Land ist. +
 _(Jag tycker att Grekland är ett vackert land.)_ 
 
+Men vad har "dass"-satser att göra med utbrytningskonstruktioner?
 
+Det är inte helt klart varifrån "dass"-satser ursprungligen kommer i tyskan.
+Eckardt (2022) argumenterar för två alternativa utvecklingar: å ena sidan från paratax till hypotax, dvs. en sekvens av huvudsatser av ett visst format som med tiden har utvecklats till en huvudsats-bisats-konstellation:
 
-Dass-Sätze sprachgeschichtlich verwandt mit relativsätzen
+."dass" - paratax till hypotax
+[quote, (Eckardt 2022, 3)]
+[Ich verstehe das.] [Er wird kommen.] blir [Ich verstehe, [dass er kommen wird.]] +
+_([Jag förstår det.] [Han kommer att komma.] blir [Jag förstår [att han kommer att komma.]])_
 
-Dass-Sätze und Spaltsätze (Blühdorn)
+Å andra sidan en utveckling från relativa satser till "dass"-satser:
 
-Dass-Spaltsätze mit kausalem Vorderglied (Blühdorn) - Subjunktorsätze vs wegen/aufgrund
+."dass" - relativsats till "dass"-sats
+[quote, '(Eckardt 2022, 6 och 12)']
+"Maria sagt (thaz) thaz Christ uns rettet." blir "Maria sagt thaz Christ uns rettet." +
+_("Maria säger det, *som Christus räddar oss." blir "Maria säger att Christus räddar oss.")_
+
+Det är möjligt att "dass"-satser är relaterade till relativsatser, vilket skulle kunna förklara de ovanliga men fungerande exempelmeningarna.
+
+I Blühdorn (2013, 172) finns de följande exempelmeningar:
+
+."dass" - relativsats till "dass"-sats
+[quote]
+Es war als wir nach Hause kamen, dass die Tür aufgebrochen war. (1)+
+_(Det var när vi kom hem som dörren var uppbruten.)_
+*Es ist da hier sowieso nichts mehr zu tun ist, dass Sie gerne schon nach Hause gehen können. (2) +
+_(*Det är eftersom det ändå inte finns något mer att göra här, som du är välkommen att åka hem.)_ +
+
+Båda två är intressant.
+(1) är ännu ett exempel till en "dass"-mening som kan översättas med "som".
+(2) är markerat som ogrammatiskt.
+Betrakta nu detta exempel:
+
+[quote]
+*Es ist da er grausam ist, dass ich ihn nicht mag.
+_(?Det är eftersom han är grym som jag inte tycker om honom.)_
+
+Följaktligen är detta exempel också ogrammatiskt, men det är nästan mening (3) i xref:#tyska-utbrytningar[].
+Uppenbarligen fungerar det inte att utbryta kausala bisatser i denna konstellation, men det fungerar väl med prepositionen "wegen" + substantiv.

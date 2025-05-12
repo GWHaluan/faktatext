@@ -1,4 +1,7 @@
+[[utbrytningar]]
 = Utbrytningar
+
+== Svenska
 
 Här är några exempel på utbrytningskonstruktioner på svenska:
 
@@ -28,7 +31,8 @@ Detta kan ha olika anledningar.
 Den är särskilt viktig information, ny information (Salmanova, S. 2024, 49) eller oväntad information (Tönnis & Tonhauser 2022, 661) i den nuvarande diskursen, eller förklarar, ibland korrigerar något som inte riktigt eller inte alls har förståtts (Brandtler, J. 2017).
 I skriftspråk kan konstruktionen tydliggöra den saknade betoningen (Språktidningen 2022).
 
-Det finns utbrytningskonstruktioner i många språk.
+== Tyska
+
 I vanliga fall är utbrytningar i svenskan mycket lika dem som finns i tyskan:
 
 [[tyska-utbrytningar]]
@@ -44,6 +48,8 @@ _(Det är för sin grymhet som jag inte tycker om honom.)_
 Mening (3) i xref:#tyska-utbrytningar[] är strukturellt identisk med xref:#tysk-dass-sats[].
 Detta är ett atypsikt fall eftersom en dass-sats används som komplementet, något som inte finns i svenskan.
 Se även xref:#dass-sats[].
+
+== Engelska
 
 Det finns ett anmärkningsvärt stort antal underkategorier för utbrytningskonstruktioner på engelska:
 
@@ -67,6 +73,8 @@ the relative express a logically simple proposition, which can also be expressed
 of a single clause without a change in truth conditions."
 
 All-clefts och inferential clefts är undantag, de lever inte upp till denna definition (Lambrecht 2001, 30 och 33).
+
+== Franska
 
 Förutom normala utbrytningar som fungerar på samma sätt som i de andra språken som presenteras, har franskan en rigid grammatisk inbäddning av utbrytningar i vissa frågesatser:
 

@@ -8,7 +8,6 @@ Medan svenkan har "som", "vilken" och "vars", har tyskan "de+", "welche+" och "w
 "wer/was" är å andra sidan inte en motsvarighet till "vars" - "vars" översättas som "deren" eller "dessen" som är former av "de+".
 "wer/was" är interrogativa pronomen som får också användas som relativa pronomen:
 
-[[tysk-utan-utbrytning]]
 .Tyska interrogativa och relativa pronomen
 [quote]
 Du weißt, wer morgen kommt. +
