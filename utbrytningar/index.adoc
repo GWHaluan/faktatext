@@ -1,5 +1,5 @@
 = Relativpronomen och utbrytningskonstruktioner i olika språk
-Richard Harka Skill <richard.sill@stroemming.se>
+Richard Harka Sill <richard.sill@stroemming.se>
 v1.4, 2025-05-13
 :doctype: article
 :title-page:
